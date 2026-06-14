@@ -1,5 +1,10 @@
 # AI Survival Guide for Engineers
 
+[![GitHub stars](https://img.shields.io/github/stars/sunnykgupta/AI-Survival-Guide?style=flat-square)](https://github.com/sunnykgupta/AI-Survival-Guide/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sunnykgupta/AI-Survival-Guide?style=flat-square)](https://github.com/sunnykgupta/AI-Survival-Guide/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/sunnykgupta/AI-Survival-Guide?style=flat-square)](https://github.com/sunnykgupta/AI-Survival-Guide/issues)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/sunnykgupta/AI-Survival-Guide/deploy.yml?style=flat-square)](https://github.com/sunnykgupta/AI-Survival-Guide/actions/workflows/deploy.yml)
+
 A no-bullshit, role-by-role map for getting into the top 1% as AI commoditizes engineering work. Read it live:
 
 **[ai-survival-guide.forbunnies.com](https://ai-survival-guide.forbunnies.com)**
